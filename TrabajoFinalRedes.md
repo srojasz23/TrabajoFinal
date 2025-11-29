@@ -101,7 +101,7 @@ Debe de incluir:
 ### (OBLIGATORIO PARA TODOS LOS GRUPOS)
 
 ### ✔ Extensión mínima  
-- **30 páginas**, formato: PDF o Word.
+- **40 páginas**, formato: PDF o Word.
 
 ### ✔ Estructura del informe
 1. Portada 
