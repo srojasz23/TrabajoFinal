@@ -142,6 +142,10 @@ Subir en GitHub  y compartirlo con el usuario: srojasz23
 ---
 
 # 🏁 Notita
-Este proyecto busca desarrollar investigación formal, pensamiento crítico, análisis técnico y aplicación de los conceptos del curso en el entorno real de la tecnología moderna.
+Este proyecto busca desarrollar investigación formal, pensamiento crítico, análisis técnico y aplicación de los conceptos del curso en el entorno real de la tecnología moderna.   
+
+# Grupos   
+<img width="864" height="333" alt="image" src="https://github.com/user-attachments/assets/d9aeff33-da42-4f30-aaae-e46daacffdbc" />
+
 
 
